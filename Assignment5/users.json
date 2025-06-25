@@ -1,0 +1,480 @@
+{
+    "kim": {
+        "password": "Kim1234@",
+        "strategy": "RandomStrategy",
+        "balance": 6.2000000000005855,
+        "auto": false,
+        "portfolio": {
+            "AAPL": [
+                {
+                    "price": 99.47,
+                    "volume": 2
+                },
+                {
+                    "price": 98.29,
+                    "volume": 2
+                },
+                {
+                    "price": 98.01,
+                    "volume": 2
+                },
+                {
+                    "price": 102.47,
+                    "volume": 3
+                },
+                {
+                    "price": 108.14,
+                    "volume": -8
+                },
+                {
+                    "price": 107.43,
+                    "volume": 3
+                },
+                {
+                    "price": 103.31,
+                    "volume": 1
+                },
+                {
+                    "price": 139.21,
+                    "volume": 1
+                }
+            ],
+            "TSLA": [
+                {
+                    "price": 223.58,
+                    "volume": 1
+                },
+                {
+                    "price": 211.23,
+                    "volume": 3
+                },
+                {
+                    "price": 224.55,
+                    "volume": 1
+                },
+                {
+                    "price": 218.51,
+                    "volume": 4
+                },
+                {
+                    "price": 213.42,
+                    "volume": 5
+                },
+                {
+                    "price": 181.93,
+                    "volume": 2
+                }
+            ],
+            "GOOG": [
+                {
+                    "price": 468.84,
+                    "volume": 3
+                },
+                {
+                    "price": 456.65,
+                    "volume": 5
+                },
+                {
+                    "price": 456.08,
+                    "volume": 1
+                },
+                {
+                    "price": 469.56,
+                    "volume": 1
+                },
+                {
+                    "price": 464.31,
+                    "volume": 3
+                }
+            ]
+        }
+    },
+    "seo": {
+        "password": "Seo1234@",
+        "strategy": "MovingAverageStrategy",
+        "balance": 2345.0500000000015,
+        "auto": false,
+        "portfolio": {
+            "AAPL": [
+                {
+                    "price": 123.21,
+                    "volume": 10
+                },
+                {
+                    "price": 122.55,
+                    "volume": -1
+                },
+                {
+                    "price": 123.59,
+                    "volume": -1
+                },
+                {
+                    "price": 124.27,
+                    "volume": -1
+                },
+                {
+                    "price": 120.11,
+                    "volume": -1
+                },
+                {
+                    "price": 124.0,
+                    "volume": -1
+                },
+                {
+                    "price": 126.71,
+                    "volume": 1
+                },
+                {
+                    "price": 129.76,
+                    "volume": 1
+                },
+                {
+                    "price": 132.96,
+                    "volume": 1
+                },
+                {
+                    "price": 137.65,
+                    "volume": 1
+                },
+                {
+                    "price": 134.28,
+                    "volume": 1
+                },
+                {
+                    "price": 130.78,
+                    "volume": 1
+                },
+                {
+                    "price": 133.12,
+                    "volume": 1
+                },
+                {
+                    "price": 132.71,
+                    "volume": -1
+                },
+                {
+                    "price": 126.86,
+                    "volume": -1
+                },
+                {
+                    "price": 127.5,
+                    "volume": -1
+                },
+                {
+                    "price": 121.85,
+                    "volume": -1
+                },
+                {
+                    "price": 122.66,
+                    "volume": -1
+                },
+                {
+                    "price": 118.85,
+                    "volume": -1
+                },
+                {
+                    "price": 119.82,
+                    "volume": -1
+                },
+                {
+                    "price": 118.75,
+                    "volume": -1
+                },
+                {
+                    "price": 113.29,
+                    "volume": -1
+                },
+                {
+                    "price": 115.79,
+                    "volume": -1
+                },
+                {
+                    "price": 118.21,
+                    "volume": -1
+                },
+                {
+                    "price": 116.8,
+                    "volume": -1
+                },
+                {
+                    "price": 117.14,
+                    "volume": 1
+                },
+                {
+                    "price": 112.46,
+                    "volume": -1
+                },
+                {
+                    "price": 110.1,
+                    "volume": 1
+                },
+                {
+                    "price": 107.97,
+                    "volume": 1
+                },
+                {
+                    "price": 105.22,
+                    "volume": 1
+                },
+                {
+                    "price": 101.55,
+                    "volume": -1
+                },
+                {
+                    "price": 101.93,
+                    "volume": -1
+                },
+                {
+                    "price": 104.5,
+                    "volume": -1
+                },
+                {
+                    "price": 104.0,
+                    "volume": 10
+                }
+            ],
+            "TSLA": [
+                {
+                    "price": 146.69,
+                    "volume": 1
+                },
+                {
+                    "price": 141.07,
+                    "volume": -1
+                },
+                {
+                    "price": 127.69,
+                    "volume": 1
+                },
+                {
+                    "price": 126.67,
+                    "volume": 1
+                },
+                {
+                    "price": 127.09,
+                    "volume": 1
+                },
+                {
+                    "price": 123.97,
+                    "volume": 1
+                }
+            ],
+            "GOOG": [
+                {
+                    "price": 470.9,
+                    "volume": 1
+                },
+                {
+                    "price": 476.92,
+                    "volume": -1
+                },
+                {
+                    "price": 511.11,
+                    "volume": 1
+                },
+                {
+                    "price": 517.84,
+                    "volume": 1
+                },
+                {
+                    "price": 530.61,
+                    "volume": 1
+                },
+                {
+                    "price": 535.99,
+                    "volume": 1
+                },
+                {
+                    "price": 528.64,
+                    "volume": 1
+                },
+                {
+                    "price": 510.52,
+                    "volume": 1
+                },
+                {
+                    "price": 523.0,
+                    "volume": -1
+                },
+                {
+                    "price": 537.52,
+                    "volume": -1
+                },
+                {
+                    "price": 560.14,
+                    "volume": 1
+                },
+                {
+                    "price": 567.09,
+                    "volume": 1
+                },
+                {
+                    "price": 594.73,
+                    "volume": 1
+                },
+                {
+                    "price": 605.35,
+                    "volume": 1
+                },
+                {
+                    "price": 594.37,
+                    "volume": 1
+                },
+                {
+                    "price": 593.99,
+                    "volume": 1
+                },
+                {
+                    "price": 616.0,
+                    "volume": 1
+                },
+                {
+                    "price": 625.7,
+                    "volume": 1
+                },
+                {
+                    "price": 604.4,
+                    "volume": 1
+                },
+                {
+                    "price": 617.98,
+                    "volume": 1
+                },
+                {
+                    "price": 591.41,
+                    "volume": -1
+                },
+                {
+                    "price": 591.26,
+                    "volume": -1
+                },
+                {
+                    "price": 574.41,
+                    "volume": -1
+                },
+                {
+                    "price": 545.82,
+                    "volume": -1
+                },
+                {
+                    "price": 534.89,
+                    "volume": -1
+                },
+                {
+                    "price": 519.6,
+                    "volume": -1
+                },
+                {
+                    "price": 519.44,
+                    "volume": -1
+                },
+                {
+                    "price": 582.62,
+                    "volume": 1
+                },
+                {
+                    "price": 606.46,
+                    "volume": 1
+                },
+                {
+                    "price": 580.67,
+                    "volume": 1
+                },
+                {
+                    "price": 589.11,
+                    "volume": 1
+                },
+                {
+                    "price": 592.68,
+                    "volume": 1
+                },
+                {
+                    "price": 610.91,
+                    "volume": 1
+                },
+                {
+                    "price": 579.79,
+                    "volume": -3
+                }
+            ]
+        }
+    },
+    "hwan": {
+        "password": "Hwan1234@",
+        "strategy": "MomentumStrategy",
+        "balance": 5788.819999999997,
+        "auto": false,
+        "portfolio": {
+            "AAPL": [
+                {
+                    "price": 134.28,
+                    "volume": 1
+                },
+                {
+                    "price": 130.78,
+                    "volume": 1
+                },
+                {
+                    "price": 133.12,
+                    "volume": 1
+                },
+                {
+                    "price": 105.22,
+                    "volume": 1
+                },
+                {
+                    "price": 101.55,
+                    "volume": -1
+                },
+                {
+                    "price": 101.93,
+                    "volume": -1
+                }
+            ],
+            "TSLA": [
+                {
+                    "price": 146.69,
+                    "volume": 1
+                },
+                {
+                    "price": 127.69,
+                    "volume": 1
+                },
+                {
+                    "price": 126.67,
+                    "volume": 1
+                },
+                {
+                    "price": 127.09,
+                    "volume": 1
+                }
+            ],
+            "GOOG": [
+                {
+                    "price": 523.0,
+                    "volume": 1
+                },
+                {
+                    "price": 537.52,
+                    "volume": 1
+                },
+                {
+                    "price": 560.14,
+                    "volume": 1
+                },
+                {
+                    "price": 580.67,
+                    "volume": 1
+                },
+                {
+                    "price": 589.11,
+                    "volume": 1
+                },
+                {
+                    "price": 592.68,
+                    "volume": 1
+                }
+            ]
+        }
+    }
+}
